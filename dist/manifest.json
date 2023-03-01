@@ -1,0 +1,9 @@
+{
+  "name": "YR's Musify Favorite Bands Extension",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "Adds possibility to create a list of favorite bands in musify.club application",
+  "host_permissions": [
+    "https://musify.club/*"
+  ]
+}
